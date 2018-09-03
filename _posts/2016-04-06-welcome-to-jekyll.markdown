@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Jelly-filled donuts are my favorite'
 date: '2016-05-29 15:12:11 -0400'
 categories: food
